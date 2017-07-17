@@ -1,0 +1,16 @@
+@capitalone
+Self-consciousness
+0.010007902056378915
+@capitalone
+Friendliness
+0.9701011504016412
+@capitalone
+Anxiety
+0.005702340043417742
+@capitalone
+Cautiousness
+0.8667297267936422
+@capitalone
+Depression
+0.07078226447486785
+[Finished in 4.132s]

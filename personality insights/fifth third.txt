@@ -1,0 +1,16 @@
+@fifththird
+Achievement striving
+0.9575023475303355
+@fifththird
+Gregariousness
+0.8900238666132911
+@fifththird
+Anxiety
+0.01606409613424059
+@fifththird
+Self-consciousness
+0.016618820983054783
+@fifththird
+Activity level
+0.9570484014256342
+[Finished in 3.915s]

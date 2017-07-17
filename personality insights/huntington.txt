@@ -1,0 +1,16 @@
+@huntington_bank
+Gregariousness
+0.8955181638753476
+@huntington_bank
+Self-consciousness
+0.010405019039038621
+@huntington_bank
+Cautiousness
+0.881797553410359
+@huntington_bank
+Depression
+0.05384843887201285
+@huntington_bank
+Anger
+0.040232633719943234
+[Finished in 4.076s]

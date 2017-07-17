@@ -1,0 +1,16 @@
+@pncbank
+Anxiety
+0.024987331671324997
+@pncbank
+Activity level
+0.9512985674425014
+@pncbank
+Self-consciousness
+0.04169578454981021
+@pncbank
+Emotionality
+0.15889444483122284
+@pncbank
+Immoderation
+0.0732722899394948
+[Finished in 3.963s]

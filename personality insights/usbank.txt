@@ -1,0 +1,16 @@
+@usbank
+Self-discipline
+0.9767538339156958
+@usbank
+Self-consciousness
+0.0020178534715407093
+@usbank
+Trust
+0.8534641260110636
+@usbank
+Altruism
+0.9407323766182283
+@usbank
+Vulnerability
+0.014030672539574296
+[Finished in 3.795s]
